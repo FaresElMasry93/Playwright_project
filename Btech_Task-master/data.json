@@ -1,0 +1,9 @@
+{
+    "username_Btech": "test@testtest.com",
+    "password_Btech": "Test@123",
+    "username_Positive": "tomsmith",
+    "password_Positive": "SuperSecretPassword!",
+    "username_Negative": "Test",
+    "password_Negative": "testNegativepassword"
+  }
+  
